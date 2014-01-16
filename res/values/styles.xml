@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="WidgetBackground_4_1">
+        <item name="android:background">@drawable/textshape</item>      
+    </style>  
+</resources>
