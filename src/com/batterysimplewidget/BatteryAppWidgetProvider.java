@@ -1,8 +1,5 @@
-/* Türkay Biliyor */
 package com.batterysimplewidget;
-
 import com.batterysimplewidget.R;
-
 import android.appwidget.AppWidgetManager;
 import android.appwidget.AppWidgetProvider;
 import android.content.Context;

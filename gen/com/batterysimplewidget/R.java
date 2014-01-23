@@ -11,14 +11,22 @@ public final class R {
     public static final class attr {
     }
     public static final class drawable {
-        public static final int clock_dial_blue=0x7f020000;
-        public static final int clock_dial_green=0x7f020001;
-        public static final int clock_dial_orange=0x7f020002;
-        public static final int clock_dial_red=0x7f020003;
-        public static final int icon=0x7f020004;
-        public static final int textshape=0x7f020005;
+        public static final int charging_020_icon=0x7f020000;
+        public static final int charging_040_icon=0x7f020001;
+        public static final int charging_060_icon=0x7f020002;
+        public static final int charging_080_icon=0x7f020003;
+        public static final int charging_100_icon=0x7f020004;
+        public static final int dis_020_icon=0x7f020005;
+        public static final int dis_040_icon=0x7f020006;
+        public static final int dis_060_icon=0x7f020007;
+        public static final int dis_080_icon=0x7f020008;
+        public static final int dis_100_icon=0x7f020009;
+        public static final int icon=0x7f02000a;
+        public static final int missing_icon=0x7f02000b;
+        public static final int textshape=0x7f02000c;
     }
     public static final class id {
+        public static final int imageView1=0x7f070002;
         public static final int status=0x7f070001;
         public static final int widget=0x7f070000;
     }
